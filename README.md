@@ -62,4 +62,9 @@ python magnetic_field.py
     B(z) = μ₀ · μᵣ · (n · I) / 2 · [ (z + L/2) / √(R² + (z + L/2)²) − (z − L/2) / √(R² + (z − L/2)²) ]
   </p>
 
+## Видео
+https://github.com/user-attachments/assets/afa048d3-3621-47a9-ab6f-80b390ad561b
+
+
+
 
