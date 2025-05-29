@@ -58,7 +58,7 @@ def plot_fields():
     plt.show()
 
 root = tk.Tk()
-root.title("Магнитное поле: тороид vs. соленоид (ось смещена на R/2)")
+root.title("Входные данные")
 
 entries = {}
 params = [
